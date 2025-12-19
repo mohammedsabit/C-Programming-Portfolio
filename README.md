@@ -1,7 +1,7 @@
 # C Programming Portfolio: Memory & Algorithms
 
 ## 📌 Academic Context
-I am a Statistics graduate (B.Sc.) transitioning into Data Science. I undertook this intensive C programming curriculum to master low-level memory management (Pointers) and algorithmic logic before advancing to high-level languages like Python/R.
+I am a Statistics graduate (B.Sc.) focused on mastering Computer Science fundamentals and Algorithmic Thinking. I undertook this intensive C programming curriculum to gain a deep understanding of **Memory Management**, **Pointers**, and **Low-Level Logic**.
 
 ## 📂 Technical Syllabus
 
